@@ -1,0 +1,3 @@
+function uzenet(){
+    alert("Betöltött!");
+}
